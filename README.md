@@ -14,7 +14,7 @@
 #    the column that contains the angle measures of the LCPC grid system.
 # 3. There should be no missing items in the "angle" and "summedDistance" columns.
 # 4. There should only be numbers in the "angle" and "summedDistance" columns.
-# 5. The script produces a .csv file called "lcpc_data.csv".
+# 5. The script produces a .csv file called "fft_data.csv".
 #
 # You will have to type in the name of your file in Step 1.
 # 
