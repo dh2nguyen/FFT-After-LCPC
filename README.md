@@ -16,7 +16,7 @@
 # 4. There should only be numbers in the "angle" and "summedDistance" columns.
 # 5. The script produces a .csv file called "fft_data.csv".
 #
-# You will have to type in the name of your file in Step 1.
+# You will have to type in the name of your file in Step 1. The practice file is included in the Github folder of this script. # It's called "sampleOutput_lcpc_data.csv".
 # 
 # End of ReadMe Info
 
